@@ -62,11 +62,11 @@ Aberta a novas conexões, colaborações e oportunidades.
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatrim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas GitHub da Ana Vatrim"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas GitHub da Ana Vatrim"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatrim&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas por Ana Vatrim"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavatrim&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas por Ana Vatrim"/>
   <br/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vatrim&theme=radical" alt="GitHub Streak de Ana Vatrim"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=anavatrim&theme=radical" alt="GitHub Streak de Ana Vatrim"/>
 </p>
 
 ---
