@@ -11,7 +11,7 @@ Meu objetivo é unir minha bagagem pedagógica com ferramentas modernas de tecno
 
 ## 🚀 Minhas Habilidades & Foco Atual
 
-Desenvolvendo soluções web que unem educação, neurodesenvolvimento e tecnologia.
+Desenvolvendo soluções web.
 
 * **Front-End:** HTML, CSS, JavaScript, TypeScript, React, Next.js
 * **UI/UX:** ShadCN/ui, Tailwind CSS, Framer Motion (com foco em Acessibilidade & Usabilidade)
