@@ -1,6 +1,6 @@
 # Olá! Eu sou a Ana Vatrim 👋
 
-### Pedagoga e Psicopedagoga 🧠 | Desenvolvedora em Formação 💻 | Apaixonada por Educação & Neurodesenvolvimento
+### Pedagoga e Psicopedagoga 🧠 | Desenvolvedora em Formação 💻 | Apaixonada por Tecnologia
 
 Em transição para a área de Tecnologia, cursando **Análise e Desenvolvimento de Sistemas (UNIFAMMA – Maringá/PR)**. Meu objetivo é unir pedagogia e neurodesenvolvimento com tecnologia para criar soluções inovadoras e impactantes. 🚀
 
