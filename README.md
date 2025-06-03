@@ -1,8 +1,11 @@
 # Olá! Eu sou a Ana Vatrim 👋
 
-### Pedagoga e Psicopedagoga 🧠 | Desenvolvedora em Formação 💻 | Apaixonada por Tecnologia
+### Pedagoga e Psicopedagoga 🧠 | Desenvolvedora Front-End em Formação 💻 | Apaixonada por Criar Experiências Digitais
 
-Em transição para a área de Tecnologia, cursando **Análise e Desenvolvimento de Sistemas (UNIFAMMA – Maringá/PR)**. Meu objetivo é unir pedagogia e neurodesenvolvimento com tecnologia para criar soluções inovadoras e impactantes. 🚀
+Em transição da educação para a tecnologia, estou cursando Análise e Desenvolvimento de Sistemas (UNIFAMMA – Maringá/PR). Hoje, meu foco está no desenvolvimento front-end, área pela qual sou completamente apaixonada.
+
+Meu objetivo é unir minha bagagem pedagógica com ferramentas modernas de tecnologia para criar soluções inovadoras, acessíveis e impactantes, explorando todo o potencial do desenvolvimento front-end. 🚀
+
 
 ---
 
