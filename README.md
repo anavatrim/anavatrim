@@ -104,6 +104,6 @@ Aberta a novas oportunidades, projetos e colaborações, com interesse em times 
 
  E-mail: anavatrim@hotmail.com
 
- Portfólio: https://nextjs-portifolio-eosin.vercel.app
+ Portfólio: https://portifolio-anavatrim.vercel.app
 
-“A tecnologia alcança seu verdadeiro potencial quando é desenvolvida com empatia.”
+
