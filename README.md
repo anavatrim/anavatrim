@@ -1,99 +1,109 @@
-# Olá! Eu sou a Ana Vatrim 👋
+Olá, eu sou a Ana Vatrim
+Desenvolvedora de Software | Front-End, Back-End & UI/UX | Background em Psicopedagogia
 
-### Pedagoga e Psicopedagoga 🧠 | Desenvolvedora Front-End em Formação 💻 | Apaixonada por Criar Experiências Digitais
+Sou Desenvolvedora de Software, com atuação em Front-End, UI/UX e conhecimentos em Back-End, aliando tecnologia, design e experiência do usuário. Minha trajetória profissional une experiência clínica em Psicopedagogia e desenvolvimento de software, o que me permite criar soluções digitais acessíveis, intuitivas e centradas no usuário.
 
-Em transição da educação para a tecnologia, estou cursando Análise e Desenvolvimento de Sistemas (UNIFAMMA – Maringá/PR). Hoje, meu foco está no desenvolvimento front-end, área pela qual sou completamente apaixonada.
+Sou uma profissional flexível, adaptável e movida pela tecnologia, com foco em aprendizado contínuo, qualidade técnica e impacto real por meio de soluções digitais.
 
-Meu objetivo é unir minha bagagem pedagógica com ferramentas modernas de tecnologia para criar soluções inovadoras, acessíveis e impactantes, explorando todo o potencial do desenvolvimento front-end. 🚀
+🧠 Experiência Profissional
 
+Psicopedagogia Clínica
+Atuei em clínica psicopedagógica, realizando avaliações, intervenções e acompanhamentos de crianças, adolescentes e adultos. Essa vivência contribuiu diretamente para o desenvolvimento de competências em análise cognitiva, comportamento do usuário, acessibilidade, usabilidade e empatia, hoje aplicadas no design e desenvolvimento de interfaces digitais.
 
----
+Tecnologia da Informação / Desenvolvimento de Software
+Atualmente atuo na área de Tecnologia da Informação, desenvolvendo soluções web com foco em Front-End, UI/UX e integração com Back-End. Trabalho com arquitetura de componentes, design systems e boas práticas de desenvolvimento, sempre priorizando performance, acessibilidade e experiência do usuário.
 
-## 🚀 Minhas Habilidades & Foco Atual
+🚀 Habilidades Técnicas
+Front-End
 
-Desenvolvendo soluções web.
+HTML5, CSS3, JavaScript (ES6+)
 
-* **Front-End:** HTML, CSS, JavaScript, TypeScript, React, Next.js
-* **UI/UX:** ShadCN/ui, Tailwind CSS, Framer Motion (com foco em Acessibilidade & Usabilidade)
-* **Back-End (Aprendendo):** NestJS, APIs REST
-* **Colaboração:** Git, GitHub
-* **Interesse Especial:** Integrar meus conhecimentos de Psicopedagogia em projetos tecnológicos.
+TypeScript
 
----
+React.js
 
-## 💡 Meus Interesses
+Next.js
 
-Construindo pontes entre o conhecimento humano e as ferramentas digitais.
+Vue.js
 
-* Desenvolvimento **Front-End & Mobile** (React Native)
-* Criação de **aplicativos educativos e inclusivos**
-* **IA** aplicada a contextos clínicos e pedagógicos
-* Psicopedagogia + Tecnologia = 💛
+Design Responsivo
 
----
+Arquitetura baseada em componentes
 
-## 🌱 Aprendizado Contínuo
+UI/UX & Design
 
-Rumo ao desenvolvimento full-stack com foco em impacto social:
+UX/UI Design
 
-* **Next.js:** Aprofundando em arquiteturas Front-End modernas.
-* **NestJS:** Fundamentos para APIs robustas.
-* **PostgreSQL:** Gerenciamento de dados.
-* **Inteligência Artificial:** Integração em aplicações.
-* **UI Avançado:** Design responsivo e animações (Tailwind CSS, Framer Motion, ShadCN/ui).
+Acessibilidade (WCAG)
 
----
+Usabilidade e Experiência do Usuário
 
-## 💬 Vamos Conectar!
+Tailwind CSS
 
-Aberta a novas conexões, colaborações e oportunidades.
+ShadCN/ui
 
-<p align="left"> <a href="https://www.linkedin.com/in/anavatrim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anavatrim@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+Framer Motion
 
-🧠 **Portfólio:** [**Veja meus projetos!**](https://nextjs-portifolio-eosin.vercel.app)
+Design Systems
 
-> _"A tecnologia é poderosa quando usada com empatia."_ 🌱
+Back-End (em desenvolvimento)
 
----
+NestJS
 
-### 📊 Minhas Estatísticas no GitHub
+APIs REST
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas GitHub da Ana Vatrim"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavatrim&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas por Ana Vatrim"/>
-  <br/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=anavatrim&theme=radical" alt="GitHub Streak de Ana Vatrim"/>
-</p>
+PostgreSQL
 
----
+Fundamentos de arquitetura de software
 
-### 🛠️ Tecnologias & Ferramentas
+Ferramentas & Colaboração
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <br/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/UI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+Git e GitHub
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anavatrim/anavatrim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anavatrim/anavatrim/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anavatrim/anavatrim/output/github-contribution-grid-snake.svg">
-</picture>
+Versionamento de código
+
+Fluxos colaborativos
+
+Mentalidade ágil
+
+💡 Áreas de Interesse
+
+Desenvolvimento Front-End e Full Stack
+
+Desenvolvimento Mobile (React Native)
+
+Aplicações educacionais e inclusivas
+
+UX/UI orientado à acessibilidade cognitiva
+
+Inteligência Artificial aplicada à educação e contexto clínico
+
+Tecnologia com impacto social
+
+🌱 Aprendizado Contínuo
+
+Atualmente aprofundando conhecimentos em:
+
+Arquiteturas modernas com Next.js
+
+Ecossistema Vue.js
+
+Desenvolvimento de APIs com NestJS
+
+Banco de dados PostgreSQL
+
+Performance, responsividade e animações
+
+Integração de IA em aplicações web
+
+💬 Vamos Conectar
+
+Aberta a novas oportunidades, projetos e colaborações, com interesse em times que valorizam qualidade técnica, acessibilidade e experiência do usuário.
+
+🔗 LinkedIn: https://www.linkedin.com/in/anavatrim
+
+📧 E-mail: anavatrim@hotmail.com
+
+🧠 Portfólio: https://nextjs-portifolio-eosin.vercel.app
+
+“A tecnologia alcança seu verdadeiro potencial quando é desenvolvida com empatia.”
