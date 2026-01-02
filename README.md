@@ -5,7 +5,7 @@ Sou Desenvolvedora de Software, com atuação em Front-End, UI/UX e conhecimento
 
 Sou uma profissional flexível, adaptável e movida pela tecnologia, com foco em aprendizado contínuo, qualidade técnica e impacto real por meio de soluções digitais.
 
-🧠 Experiência Profissional
+Experiência Profissional
 
 Psicopedagogia Clínica
 Atuei em clínica psicopedagógica, realizando avaliações, intervenções e acompanhamentos de crianças, adolescentes e adultos. Essa vivência contribuiu diretamente para o desenvolvimento de competências em análise cognitiva, comportamento do usuário, acessibilidade, usabilidade e empatia, hoje aplicadas no design e desenvolvimento de interfaces digitais.
@@ -13,7 +13,7 @@ Atuei em clínica psicopedagógica, realizando avaliações, intervenções e ac
 Tecnologia da Informação / Desenvolvimento de Software
 Atualmente atuo na área de Tecnologia da Informação, desenvolvendo soluções web com foco em Front-End, UI/UX e integração com Back-End. Trabalho com arquitetura de componentes, design systems e boas práticas de desenvolvimento, sempre priorizando performance, acessibilidade e experiência do usuário.
 
-🚀 Habilidades Técnicas
+Habilidades Técnicas
 Front-End
 
 HTML5, CSS3, JavaScript (ES6+)
@@ -66,7 +66,7 @@ Fluxos colaborativos
 
 Mentalidade ágil
 
-💡 Áreas de Interesse
+ Áreas de Interesse
 
 Desenvolvimento Front-End e Full Stack
 
@@ -80,7 +80,7 @@ Inteligência Artificial aplicada à educação e contexto clínico
 
 Tecnologia com impacto social
 
-🌱 Aprendizado Contínuo
+ Aprendizado Contínuo
 
 Atualmente aprofundando conhecimentos em:
 
@@ -96,14 +96,14 @@ Performance, responsividade e animações
 
 Integração de IA em aplicações web
 
-💬 Vamos Conectar
+Vamos Conectar
 
 Aberta a novas oportunidades, projetos e colaborações, com interesse em times que valorizam qualidade técnica, acessibilidade e experiência do usuário.
 
-🔗 LinkedIn: https://www.linkedin.com/in/anavatrim
+ LinkedIn: https://www.linkedin.com/in/anavatrim
 
-📧 E-mail: anavatrim@hotmail.com
+ E-mail: anavatrim@hotmail.com
 
-🧠 Portfólio: https://nextjs-portifolio-eosin.vercel.app
+ Portfólio: https://nextjs-portifolio-eosin.vercel.app
 
 “A tecnologia alcança seu verdadeiro potencial quando é desenvolvida com empatia.”
