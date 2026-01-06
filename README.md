@@ -41,6 +41,8 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
 </div>
 <details open>
   <summary><b>Back-End & Database (Learning)</b></summary>
+  <br />
+  
   <div align="center ">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
