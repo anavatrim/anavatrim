@@ -1,109 +1,79 @@
-Olá, eu sou a Ana Vatrim
-Desenvolvedora de Software | Front-End, Back-End & UI/UX | Background em Psicopedagogia
+<div align="center">
+  <img src="https://instagram.fmgf1-1.fna.fbcdn.net/v/t51.2885-19/608816502_18119908219563233_3804100288767351364_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjcuYzIifQ&_nc_ht=instagram.fmgf1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QGAJ594Oz3CxHa5a2g5d3BHyUtEKhr5_PyWSCxTnJGXrZPHxlgK_SA8jVHh1yM-TaCyV_7aqDxC7QNy8U63GPv0&_nc_ohc=s8R60-8DgUgQ7kNvwHG7Mnj&_nc_gid=-OTLQhYy6Q1OoYg7bnZBLQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Afp5vhUd5xKWS_WMbwAfmEUGKAdnLM2_xa7_z_f8jA007A&oe=69620FB8&_nc_sid=22de04" width="200" height="200"/>
+  
+  <h3>Software Developer • Front-End • Full Stack • UI/UX • Accessibility</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/SEU_USER_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:seuemail@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-Sou Desenvolvedora de Software, com atuação em Front-End, UI/UX e conhecimentos em Back-End, aliando tecnologia, design e experiência do usuário. Minha trajetória profissional une experiência clínica em Psicopedagogia e desenvolvimento de software, o que me permite criar soluções digitais acessíveis, intuitivas e centradas no usuário.
+<div align="center">
+ <h3>Sobre Mim</h3> 
+</div>
 
-Sou uma profissional flexível, adaptável e movida pela tecnologia, com foco em aprendizado contínuo, qualidade técnica e impacto real por meio de soluções digitais.
+Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de componentes e **UI/UX Engineering**. Minha transição de carreira vinda da **Psicopedagogia** me proporcionou uma visão analítica única, focada em empatia e **acessibilidade cognitiva**.
 
-Experiência Profissional
+*  **Foco:** Construção de interfaces escaláveis, performáticas e centradas no usuário.
+*  **Diferencial:** Aplicação de design inclusivo e acessibilidade (WCAG) como pilar de desenvolvimento.
+*  **Evolução:** Expandindo conhecimentos para o ecossistema Full Stack e IA aplicada.
 
-Psicopedagogia Clínica
-Atuei em clínica psicopedagógica, realizando avaliações, intervenções e acompanhamentos de crianças, adolescentes e adultos. Essa vivência contribuiu diretamente para o desenvolvimento de competências em análise cognitiva, comportamento do usuário, acessibilidade, usabilidade e empatia, hoje aplicadas no design e desenvolvimento de interfaces digitais.
+---
+<div align="center ">
+ <h3>Tecnologies & Tools</h3>
+</div>
+<details open>
+  <summary><b>Front-End & UI/UX</b></summary>
+  <br />
+ 
+<div align="center ">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</details>
+</div>
 
-Tecnologia da Informação / Desenvolvimento de Software
-Atualmente atuo na área de Tecnologia da Informação, desenvolvendo soluções web com foco em Front-End, UI/UX e integração com Back-End. Trabalho com arquitetura de componentes, design systems e boas práticas de desenvolvimento, sempre priorizando performance, acessibilidade e experiência do usuário.
-
-Habilidades Técnicas
-Front-End
-
-HTML5, CSS3, JavaScript (ES6+)
-
-TypeScript
-
-React.js
-
-Next.js
-
-Vue.js
-
-Design Responsivo
-
-Arquitetura baseada em componentes
-
-UI/UX & Design
-
-UX/UI Design
-
-Acessibilidade (WCAG)
-
-Usabilidade e Experiência do Usuário
-
-Tailwind CSS
-
-ShadCN/ui
-
-Framer Motion
-
-Design Systems
-
-Back-End (em desenvolvimento)
-
-NestJS
-
-APIs REST
-
-PostgreSQL
-
-Fundamentos de arquitetura de software
-
-Ferramentas & Colaboração
-
-Git e GitHub
-
-Versionamento de código
-
-Fluxos colaborativos
-
-Mentalidade ágil
-
- Áreas de Interesse
-
-Desenvolvimento Front-End e Full Stack
-
-Desenvolvimento Mobile (React Native)
-
-Aplicações educacionais e inclusivas
-
-UX/UI orientado à acessibilidade cognitiva
-
-Inteligência Artificial aplicada à educação e contexto clínico
-
-Tecnologia com impacto social
-
- Aprendizado Contínuo
-
-Atualmente aprofundando conhecimentos em:
-
-Arquiteturas modernas com Next.js
-
-Ecossistema Vue.js
-
-Desenvolvimento de APIs com NestJS
-
-Banco de dados PostgreSQL
-
-Performance, responsividade e animações
-
-Integração de IA em aplicações web
-
-Vamos Conectar
-
-Aberta a novas oportunidades, projetos e colaborações, com interesse em times que valorizam qualidade técnica, acessibilidade e experiência do usuário.
-
- LinkedIn: https://www.linkedin.com/in/anavatrim
-
- E-mail: anavatrim@hotmail.com
-
- Portfólio: https://portifolio-anavatrim.vercel.app
+<details>
+  <summary><b>Back-End & Database (Learning)</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</details>
 
 
+<div align="center">
+  <h3>Estatísticas no GitHub</h3>
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=anavatrim&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center">
+<h3>Projetos em Destaque</h3>
+
+| Projeto | Descrição | Techs | Link |
+| :--- | :--- | :--- | :--- |
+| **Mono Payment System** | Sistema de pagamentos escalável em monorepo, focado em alta performance e processamento ágil. | `Next.js` `NestJS` `TurboRepo` | [Acessar](https://github.com/leonardobits/mono-modular-crm) |
+| **CRM Open-Source** | Plataforma modular de gestão com IA generativa e integração multicanal (WhatsApp/SMS). | `React` `Node.js` `MongoDB` | [Acessar](https://github.com/lucas-gustavoc/mono-payment-system) |
+</div>
+
+
+<div align="center ">
+<h3>No que estou trabalhando agora?</h3></div>
+
+- Backend Escalável: Aprofundando em **NestJS** para construção de arquiteturas robustas e modulares.
+- UX/UI & Motion: Aperfeiçoando animações fluidas para elevar a **experiência do usuário** a um novo nível.
+- Ecossistema Vue: Expandindo meu stack com o estudo de **Vue.js** e suas ferramentas de reatividade.
+
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
