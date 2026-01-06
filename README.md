@@ -54,7 +54,6 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
 <div align="center">
   <h3>Estatísticas no GitHub</h3>
   <br><br>
-
   <img src="https://streak-stats.demolab.com/?user=anavatrim&theme=radical" alt="GitHub Streak" />
 </div>
 <div align="center">
