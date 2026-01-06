@@ -60,8 +60,7 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
 <div align="center">
   <h3>📊 Estatísticas no GitHub</h3>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://streak-stats.demolab.com/?user=anavatrim&theme=radical" alt="GitHub Streak" height="180px" />
+ <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=anavatrim&show_icons=true&theme=radical" height="180px" />
 </div>
 
 <hr />
