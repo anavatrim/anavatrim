@@ -17,8 +17,7 @@
  <h3>Sobre Mim</h3> 
 </div>
 
-Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de componentes e **UI/UX Engineering**. Minha transição de carreira vinda da **Psicopedagogia** me proporcionou uma visão analítica única, focada em empatia e **acessibilidade cognitiva**.
-
+Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de componentes e **UI/UX Engineering**. 
 *  **Foco:** Construção de interfaces escaláveis, performáticas e centradas no usuário.
 *  **Diferencial:** Aplicação de design inclusivo e acessibilidade (WCAG) como pilar de desenvolvimento.
 *  **Evolução:** Expandindo conhecimentos para o ecossistema Full Stack e IA aplicada.
@@ -40,14 +39,16 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </details>
 </div>
-
-<details>
+<details open>
   <summary><b>Back-End & Database (Learning)</b></summary>
-  <br />
+  <div align="center ">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
 </details>
+</div>
+
 
 
 <div align="center">
