@@ -18,11 +18,11 @@
 </div>
 
 Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de componentes e **UI/UX Engineering**. 
-*  **Foco:** Construção de interfaces escaláveis, performáticas e centradas no usuário.
-*  **Diferencial:** Aplicação de design inclusivo e acessibilidade (WCAG) como pilar de desenvolvimento.
-*  **Evolução:** Expandindo conhecimentos para o ecossistema Full Stack e IA aplicada.
+*  Foco: Construção de interfaces escaláveis, performáticas e centradas no usuário.
+*  Diferencial: Aplicação de design inclusivo e acessibilidade (WCAG) como pilar de desenvolvimento.
+*  Evolução: Expandindo conhecimentos para o ecossistema Full Stack e IA aplicada.
 
----
+
 <div align="center ">
  <h3>Tecnologies & Tools</h3>
 </div>
@@ -48,8 +48,6 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
   <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
 </details>
 </div>
-
-
 
 <div align="center">
   <h3>Estatísticas no GitHub</h3>
