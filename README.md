@@ -3,14 +3,19 @@
   
   <h3>Software Developer • Front-End • Full Stack • UI/UX • Accessibility</h3>
   
-  <p>
-    <a href="https://www.linkedin.com/in/anavatrim/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:anavatrim@hotmai.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/anavatrim/">
+    <img src="https://img.shields.io/badge/LinkedIn-085197?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:anavatrim@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-a66e93?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://anavatrim.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-085197?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+</p>
 </div>
 
 <div align="center">
@@ -62,7 +67,7 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
 | Projeto | Descrição | Techs | Link |
 | :--- | :--- | :--- | :--- |
 | **Mono Payment System** | Sistema de pagamentos escalável em monorepo, focado em alta performance e processamento ágil. | `Next.js` `NestJS` `TurboRepo` | [Acessar](https://github.com/leonardobits/mono-modular-crm) |
-| **CRM Open-Source** | Plataforma modular de gestão com IA generativa e integração multicanal (WhatsApp/SMS). | `React` `Node.js` `MongoDB` | [Acessar](https://github.com/lucas-gustavoc/mono-payment-system) |
+| **CRM Open-Source** | Plataforma modular de gestão com IA generativa e integração multicanal (WhatsApp/SMS). | `React` `Node.js` `postgreSQL` | [Acessar](https://github.com/lucas-gustavoc/mono-payment-system) |
 </div>
 
 
