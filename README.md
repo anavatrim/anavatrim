@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://instagram.fmgf1-1.fna.fbcdn.net/v/t51.2885-19/608816502_18119908219563233_3804100288767351364_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjcuYzIifQ&_nc_ht=instagram.fmgf1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QGAJ594Oz3CxHa5a2g5d3BHyUtEKhr5_PyWSCxTnJGXrZPHxlgK_SA8jVHh1yM-TaCyV_7aqDxC7QNy8U63GPv0&_nc_ohc=s8R60-8DgUgQ7kNvwHG7Mnj&_nc_gid=-OTLQhYy6Q1OoYg7bnZBLQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Afp5vhUd5xKWS_WMbwAfmEUGKAdnLM2_xa7_z_f8jA007A&oe=69620FB8&_nc_sid=22de04" width="200" height="200"/>
+<!-- <div align="center">
+  <img src="" width="200" height="200"/> -->
   
   <h3>Software Developer • Front-End • Full Stack • UI/UX • Accessibility</h3>
   
@@ -57,13 +57,13 @@ Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de com
 
 <hr />
 
-<div align="center">
+<!-- <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   
   <img src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="180px" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavatrim&layout=compact&theme=radical" height="180px" />
-</div>
+</div> -->
 
 <hr />
 
