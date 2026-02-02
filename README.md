@@ -1,5 +1,5 @@
-<!-- <div align="center">
-  <img src="" width="200" height="200"/> -->
+ <div align="center">
+      <!-- <img src="" width="200" height="200"/>  -->
   
   <h3>Software Developer • Front-End • Full Stack • UI/UX • Accessibility</h3>
   
