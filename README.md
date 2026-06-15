@@ -1,93 +1,116 @@
- <div align="center">
-      <!-- <img src="" width="200" height="200"/>  -->
-  
-  <h3>Software Developer • Front-End • Full Stack • UI/UX • Accessibility</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/anavatrim/">
-      <img src="https://img.shields.io/badge/LinkedIn-085197?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:anavatrim@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-a66e93?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://anavatrim.vercel.app/">
-      <img src="https://img.shields.io/badge/Website-085197?style=for-the-badge&logo=website&logoColor=white" />
-    </a>
-  </p>
-</div>
-
-<hr />
-
 <div align="center">
-  <h3>Sobre Mim</h3> 
-</div>
 
-Desenvolvedora de Software com foco em **Front-End moderno**, arquitetura de componentes e **UI/UX Engineering**. 
-* **Foco:** Construção de interfaces escaláveis, performáticas e centradas no usuário.
-* **Diferencial:** Aplicação de design inclusivo e acessibilidade (WCAG) como pilar de desenvolvimento.
-* **Evolução:** Expandindo conhecimentos para o ecossistema Full Stack e IA aplicada.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3200&pause=1200&color=A66E93&center=true&vCenter=true&width=850&lines=Full%20Stack%20Developer;UI%2FUX%20Engineer;Design%20Systems%20%26%20Accessibility;Building%20human-centered%20digital%20products" />
 
-<hr />
+<br />
 
-<div align="center">
-  <h3>Technologies & Tools</h3>
-</div>
+###  Design + Code + Accessibility
 
-<details open>
-  <summary><b>Front-End & UI/UX</b></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </p>
-</details>
+Crio experiências digitais escaláveis, acessíveis e centradas no usuário, conectando estratégia, design e engenharia.
 
-<details open>
-  <summary><b>Back-End & Database (Learning)</b></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
-  </p>
-</details>
+<br />
 
-<hr />
+<a href="https://www.linkedin.com/in/anavatrim/">
+  <img src="https://img.shields.io/badge/LinkedIn-085197?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!-- <div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavatrim&layout=compact&theme=radical" height="180px" />
-</div> -->
+<a href="mailto:anavatrim@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-A66E93?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<hr />
-
-<div align="center">
-  <h3>Projetos em Destaque</h3>
-
-| Projeto | Descrição | Techs | Link |
-| :--- | :--- | :--- | :--- |
-| **Mono Payment System** | Sistema de pagamentos escalável em monorepo. | `Next.js` `NestJS` | [Acessar](https://github.com/lucas-gustavoc/mono-payment-system) |
-| **CRM Open-Source** | Plataforma modular de gestão com IA generativa. | `React` `Node.js` | [Acessar](https://github.com/leonardobits/mono-modular-crm) |
+<a href="https://anavatrim.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
-<hr />
+---
+
+##  Sobre mim
+
+Sou desenvolvedora focada em transformar problemas complexos em experiências intuitivas.
+
+💜 Arquitetura de componentes e Design Systems
+
+♿ Acessibilidade e boas práticas WCAG
+
+⚡ Performance, usabilidade e Developer Experience
+
+🚀 Aplicações Full Stack com TypeScript
+
+🤖 IA aplicada ao desenvolvimento e produtividade
+
+--- 
+
+##  Stack Principal
 
 <div align="center">
-  <h3>No que estou trabalhando agora?</h3>
+
+
+### Front-end & UX Engineering
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vue,figma" />
+
+</p>
+
+### Back-end & Data
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase" />
+
+</p>
+
+### Design & Qualidade
+
+<p>
+
+<img src="https://img.shields.io/badge/Design%20Systems-A66E93?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accessibility-085197?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+
+</p>
+
+---
+
 </div>
 
-- **Backend Escalável:** Aprofundando em NestJS para arquiteturas modulares.
-- **UX/UI & Motion:** Aperfeiçoando animações fluidas para elevar a experiência do usuário.
-- **Ecossistema Vue:** Expandindo meu stack com o estudo de Vue.js.
+##  Projetos em Destaque
 
 <div align="center">
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+ 
+| Projeto        | Impacto                                                         | Stack                               |
+| :------------- | :-------------------------------------------------------------- | :---------------------------------- |
+| **Projeto 01** | Redução de atrito na jornada do usuário e aumento de conversão. | `Next.js` · `NestJS` · `PostgreSQL` |
+| **Projeto 02** | Automação de fluxos com foco em experiência e produtividade.    | `React` · `Node.js` · `IA`          |
+| **Projeto 03** | Design System acessível com componentes reutilizáveis.          | `TypeScript` · `Storybook`          |
+
+</div>
+
+---
+
+##  Atualmente
+
+* Explorando arquiteturas escaláveis com **NestJS**
+* Criando microinterações e experiências com **UX Motion**
+* Expandindo conhecimentos no ecossistema **Vue.js**
+* Integrando **IA** ao ciclo de desenvolvimento
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&hide_border=true&theme=radical&bg_color=00000000" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavatrim&layout=compact&hide_border=true&theme=radical&bg_color=00000000" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anavatrim&bg_color=00000000&color=A66E93&line=085197&point=FFFFFF&hide_border=true" />
+
 </div>
