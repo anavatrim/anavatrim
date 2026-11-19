@@ -38,11 +38,11 @@ Busco oportunidades como **Desenvolvedora Full Stack Júnior**, onde eu possa co
 
 ## 🚀 Projetos Pessoais Selecionados
 
-| Projeto | Descrição & Destaques Técnicos | Tecnologias Aplicadas | Status |
+| Projeto | Descrição & Destaques Técnicos | Tecnologias Aplicadas | Repositório |
 | :--- | :--- | :--- | :---: |
-| **PillPal** | Aplicação web para acompanhamento e lembretes de medicamentos diários. Foco em **acessibilidade de toque (mobile-first)**, ciclo diário automático sem recadastramento contínuo, síntese sonora via Web Audio API e suíte de 14 testes unitários com Vitest. | `React` `TypeScript` `Tailwind` `Vitest` `Web Audio` | Homologado |
-| **CSEG Safety Hub** | Portal de catálogo técnico de EPIs e assistente de triagem de Normas Regulamentadoras (NRs). Catálogo com filtros multicritério e assistente estruturado via motor de regras determinísticas de conformidade. | `React` `TypeScript` `Tailwind` `Framer Motion` `Vitest` | Homologado |
-| **Conecta Digital** | Landing page moderna e responsiva voltada a serviços corporativos, com microinterações via Framer Motion, tempo de carregamento otimizado e componentização desacoplada. | `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Vite` | Homologado |
+| **[PillPal](https://github.com/anavatrim/pill-pal)** | Aplicação web para acompanhamento e lembretes de medicamentos diários. Foco em **acessibilidade de toque (mobile-first)**, ciclo diário automático sem recadastramento contínuo, síntese sonora via Web Audio API e suíte de 14 testes unitários com Vitest. | `React` `TypeScript` `Tailwind` `Vitest` `Web Audio` | [Acessar Código](https://github.com/anavatrim/pill-pal) |
+| **CSEG Safety Hub** | Portal de catálogo técnico de EPIs e assistente de triagem de Normas Regulamentadoras (NRs). Catálogo com filtros multicritério e assistente estruturado via motor de regras determinísticas de conformidade. | `React` `TypeScript` `Tailwind` `Framer Motion` `Vitest` | Em Homologação |
+| **[Conecta Digital](https://github.com/anavatrim/conecta-digital-landing)** | Landing page moderna e responsiva voltada a serviços corporativos, com microinterações via Framer Motion, tempo de carregamento otimizado e componentização desacoplada. | `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Vite` | [Acessar Código](https://github.com/anavatrim/conecta-digital-landing) |
 
 ---
 
