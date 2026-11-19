@@ -1,62 +1,101 @@
-# Ana Vatrim — Desenvolvedora Full Stack Júnior
+<div align="left">
+
+# Ana Vatrim
+### Desenvolvedora Full Stack Júnior · Analista e Desenvolvedora de Sistemas
+
+Construindo aplicações web completas com foco em **arquitetura limpa**, **tipagem estrita**, **acessibilidade (WCAG)** e **experiência do usuário**.
 
 <p align="left">
-  <strong>Analista e Desenvolvedora de Sistemas · Front-end & Back-end</strong>
+  <a href="https://www.linkedin.com/in/anavatrim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portifolio-anavatrim.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio_Web-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="mailto:anavatrim@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Maringá--PR-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anavatrim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://anavatrim.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="mailto:anavatrim@hotmail.com"><img src="https://img.shields.io/badge/Email-anavatrim%40hotmail.com-6E5494?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/anavatrim"><img src="https://img.shields.io/badge/Localização-Maringá--PR-gray?style=flat-square" alt="Localização" /></a>
-</p>
+</div>
 
 ---
 
-## 👩‍💻 Sobre Mim & Perfil Profissional
+## 👩‍💻 Sobre Mim
 
-Olá! Sou **Analista e Desenvolvedora de Sistemas**, com experiência prática no desenvolvimento, manutenção e evolução de aplicações web completas. Atuo tanto no **Front-end** quanto no **Back-end**, combinando foco em código limpo, componentização organizada, usabilidade, acessibilidade (WCAG) e testes automatizados.
+Sou **Analista e Desenvolvedora de Sistemas** com atuação prática no desenvolvimento, manutenção e evolução de sistemas web, transitando entre o **Front-end** e o **Back-end**. 
 
-Busco oportunidades como **Desenvolvedora Full Stack Júnior**, onde eu possa contribuir na construção de produtos digitais com estabilidade, legibilidade técnica e foco nas necessidades reais dos usuários e do negócio.
+Combino minha formação em **Análise e Desenvolvimento de Sistemas** com uma visão centrada no usuário para entregar interfaces responsivas e acessíveis, conectadas a APIs bem estruturadas, bancos de dados relacionais e regras de negócio testadas.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### Tecnologias Efetivamente Utilizadas na Prática
-- **Linguagens:** TypeScript, JavaScript (ES6+), HTML5 Semântico, CSS3.
-- **Front-end:** React.js, Vite, Tailwind CSS, Radix UI, Shadcn UI, Framer Motion.
-- **Back-end & APIs:** Node.js, Express, RESTful APIs, Fetch/Axios.
-- **Qualidade & Testes:** Vitest, React Testing Library, ESLint, Prettier, Acessibilidade Web (WCAG).
-- **Ferramentas de Desenvolvimento:** Git, GitHub, Bun, Postman, VS Code.
+### Front-end & UI Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-18181B?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
-### Tecnologias em Aprofundamento e Estudo Contínuo
-- **Back-end & Arquitetura:** NestJS, PostgreSQL, Modelagem de Bancos Relacionais, Docker.
-- **Ecossistema Web:** Next.js (App Router), Vue.js.
+### Back-end, Dados & Validação
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+</p>
+
+### Qualidade, Testes & Fluxo de Trabalho
+<p align="left">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/WCAG_Acessibilidade-4F46E5?style=flat-square&logo=w3c&logoColor=white" alt="WCAG" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+> **Em aprofundamento contínuo:** Docker, pipelines de CI/CD com GitHub Actions e testes End-to-End com Playwright.
 
 ---
 
-## 🚀 Projetos Pessoais Selecionados
+## 🚀 Projetos em Destaque
 
-| Projeto | Descrição & Destaques Técnicos | Tecnologias Aplicadas | Repositório |
+| Projeto | Proposta & Destaques de Engenharia | Stack | Acesso |
 | :--- | :--- | :--- | :---: |
-| **[PillPal](https://github.com/anavatrim/pill-pal)** | Aplicação web para acompanhamento e lembretes de medicamentos diários. Foco em **acessibilidade de toque (mobile-first)**, ciclo diário automático sem recadastramento contínuo, síntese sonora via Web Audio API e suíte de 14 testes unitários com Vitest. | `React` `TypeScript` `Tailwind` `Vitest` `Web Audio` | [Acessar Código](https://github.com/anavatrim/pill-pal) |
-| **CSEG Safety Hub** | Portal de catálogo técnico de EPIs e assistente de triagem de Normas Regulamentadoras (NRs). Catálogo com filtros multicritério e assistente estruturado via motor de regras determinísticas de conformidade. | `React` `TypeScript` `Tailwind` `Framer Motion` `Vitest` | Em Homologação |
-| **[Conecta Digital](https://github.com/anavatrim/conecta-digital-landing)** | Landing page moderna e responsiva voltada a serviços corporativos, com microinterações via Framer Motion, tempo de carregamento otimizado e componentização desacoplada. | `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Vite` | [Acessar Código](https://github.com/anavatrim/conecta-digital-landing) |
+| **[PillPal](https://github.com/anavatrim/pill-pal)** | Gestão inclusiva de rotina de medicamentos. Projetado sob critérios **WCAG (mobile-first)**, reset diário automático de doses, síntese sonora via **Web Audio API** e **14 testes unitários** cobrindo regras de negócio e alarmes. | `React` · `TypeScript` · `Tailwind` · `Vitest` | [![Código](https://img.shields.io/badge/Repositório-18181B?style=flat-square&logo=github)](https://github.com/anavatrim/pill-pal) |
+| **CSEG Safety Hub** | Catálogo técnico de EPIs e assistente de triagem de Normas Regulamentadoras (NRs). Filtros multicritério, validação de Certificados de Aprovação (CA) e motor determinístico de conformidade testado com Vitest. | `React` · `TypeScript` · `Framer Motion` · `Vitest` | `Privado · Homologado` |
+| **[Conecta Digital](https://github.com/anavatrim/conecta-digital-landing)** | Aplicação institucional responsiva de alta performance. Arquitetura de componentes desacoplados, microinterações fluidas com Framer Motion e build otimizado. | `React 18` · `TypeScript` · `Tailwind` · `Vite` | [![Código](https://img.shields.io/badge/Repositório-18181B?style=flat-square&logo=github)](https://github.com/anavatrim/conecta-digital-landing) |
 
 ---
 
-## 📐 Boas Práticas que Aplico no Dia a Dia
+## 📊 Atividade & Métricas no GitHub
 
-- **Organização e Componentização:** Divisão clara entre apresentação (UI) e regras de negócio (Custom Hooks).
-- **Tipagem Segura:** Uso de TypeScript para prevenção de erros em tempo de compilação e interfaces explícitas.
-- **Acessibilidade e Usabilidade:** Elementos semânticos, contraste adequado, suporte a navegação por teclado e touch targets confortáveis para dispositivos móveis.
-- **Testabilidade:** Implementação de testes automatizados para validação de comportamentos essenciais de regras de negócio.
+<div align="center">
+  <a href="https://github.com/anavatrim">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anavatrim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=38BDF8&text_color=E2E8F0&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Vatrim" />
+  </a>
+  <a href="https://github.com/anavatrim">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavatrim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&locale=pt-br&langs_count=6" alt="Linguagens mais utilizadas por Ana Vatrim" />
+  </a>
+</div>
 
 ---
 
-## 📬 Contato
+## 📐 Pilares de Desenvolvimento
 
-- **LinkedIn:** [linkedin.com/in/anavatrim](https://www.linkedin.com/in/anavatrim/)
-- **Portfólio:** [anavatrim.vercel.app](https://anavatrim.vercel.app/)
-- **E-mail:** [anavatrim@hotmail.com](mailto:anavatrim@hotmail.com)
+- **Componentização & Arquitetura:** Separação clara entre interface (UI), regras de negócio (Custom Hooks / Services) e contratos de dados.
+- **Tipagem & Segurança:** Uso rigoroso de TypeScript e validação de esquemas com Zod para evitar falhas em tempo de execução.
+- **UX & Acessibilidade:** Interfaces responsivas com foco em legibilidade, contraste, semântica HTML e navegação acessível.
+- **Qualidade Contínua:** Cobertura de regras críticas com testes automatizados, padronização com ESLint/Prettier e versionamento semântico.
