@@ -1,7 +1,7 @@
-# Ana Vatrim — Desenvolvedora Full Stack
+# Ana Vatrim — Desenvolvedora Full Stack Júnior
 
 <p align="left">
-  <strong>Engenharia de Software · Arquitetura Limpa · Design Systems · Acessibilidade</strong>
+  <strong>Analista e Desenvolvedora de Sistemas · Front-end & Back-end</strong>
 </p>
 
 <p align="left">
@@ -13,55 +13,50 @@
 
 ---
 
-## 💻 Perfil Profissional
+## 👩‍💻 Sobre Mim & Perfil Profissional
 
-Desenvolvedora Full Stack com sólida atuação na construção de produtos digitais modernos, escaláveis e centrados no usuário. Combino rigor em **engenharia de software** (Clean Code, SOLID, tipagem estrita com TypeScript e modularização) com profunda atenção à **experiência do usuário** (Design Systems, WCAG/Acessibilidade e microinterações).
+Olá! Sou **Analista e Desenvolvedora de Sistemas**, com experiência prática no desenvolvimento, manutenção e evolução de aplicações web completas. Atuo tanto no **Front-end** quanto no **Back-end**, combinando foco em código limpo, componentização organizada, usabilidade, acessibilidade (WCAG) e testes automatizados.
 
-Atuo desde a concepção de interfaces responsivas e componentizadas até o desenvolvimento e integração de APIs RESTful, bancos de dados relacionais e serviços de inteligência artificial aplicados à produtividade.
+Busco oportunidades como **Desenvolvedora Full Stack Júnior**, onde eu possa contribuir na construção de produtos digitais com estabilidade, legibilidade técnica e foco nas necessidades reais dos usuários e do negócio.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### Front-end & UX Engineering
-- **Linguagens & Frameworks:** TypeScript, JavaScript (ES6+), React.js, Next.js (App Router), Vue.js
-- **Estilização & Design Systems:** Tailwind CSS, Radix UI, Shadcn UI, CSS Modules, Figma
-- **Qualidade & Acessibilidade:** WCAG 2.1, Framer Motion, Responsividade Mobile-First, Vitest
+### Tecnologias Efetivamente Utilizadas na Prática
+- **Linguagens:** TypeScript, JavaScript (ES6+), HTML5 Semântico, CSS3.
+- **Front-end:** React.js, Vite, Tailwind CSS, Radix UI, Shadcn UI, Framer Motion.
+- **Back-end & APIs:** Node.js, Express, RESTful APIs, Fetch/Axios.
+- **Qualidade & Testes:** Vitest, React Testing Library, ESLint, Prettier, Acessibilidade Web (WCAG).
+- **Ferramentas de Desenvolvimento:** Git, GitHub, Bun, Postman, VS Code.
 
-### Back-end & Dados
-- **Runtime & Frameworks:** Node.js, NestJS, Express
-- **APIs & Integrações:** RESTful APIs, Autenticação & Autorização (JWT, OAuth), Webhooks
-- **Bancos de Dados & BaaS:** PostgreSQL, Supabase, MinIO (S3-compatible object storage)
-
-### Ferramentas & Engenharia
-- **Controle de Versão:** Git, GitHub Flow, Code Review
-- **DevOps & Infra:** Docker, Docker Compose, GitHub Actions (CI/CD), Vercel
-- **Ferramentas de Desenvolvimento:** Bun, Vite, Turborepo, Postman, ESLint, Prettier
+### Tecnologias em Aprofundamento e Estudo Contínuo
+- **Back-end & Arquitetura:** NestJS, PostgreSQL, Modelagem de Bancos Relacionais, Docker.
+- **Ecossistema Web:** Next.js (App Router), Vue.js.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Pessoais Selecionados
 
-| Projeto | Descrição & Arquitetura | Stack | Repositório |
+| Projeto | Descrição & Destaques Técnicos | Tecnologias Aplicadas | Status |
 | :--- | :--- | :--- | :---: |
-| **PillPal** | Aplicação de rotina e lembrete de medicamentos desenvolvida com foco prioritário em **acessibilidade (WCAG)**, semântica inclusiva, gerenciamento de estado previsível e testes automatizados. | `React` `TypeScript` `Shadcn UI` `Tailwind` `Vitest` | [Acessar](https://github.com/anavatrim/pill-pal) |
-| **CSEG Safety Hub** | Plataforma de catálogo técnico e gestão para Saúde e Segurança do Trabalho (SST), com assistente interativo de IA integrado para triagem de normas regulamentadoras e EPIs. | `React` `TypeScript` `Tailwind CSS` `GenAI` | [Acessar](https://github.com/anavatrim/cseg-safety-hub) |
-| **Conecta Digital** | Aplicação institucional moderna com layout responsivo de alta conversão, animações fluidas via Framer Motion e componentização desacoplada. | `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` | [Acessar](https://github.com/anavatrim/project) |
-| **S4 ERP Platform** | Interface web corporativa para sistema integrado de gestão (ERP), estruturada com rotas modulares, tipagem rigorosa e design system sob medida. | `Next.js` `TypeScript` `Tailwind CSS` `Radix UI` | [Acessar](https://github.com/anavatrim/s4site_v3) |
+| **PillPal** | Aplicação web para acompanhamento e lembretes de medicamentos diários. Foco em **acessibilidade de toque (mobile-first)**, ciclo diário automático sem recadastramento contínuo, síntese sonora via Web Audio API e suíte de 14 testes unitários com Vitest. | `React` `TypeScript` `Tailwind` `Vitest` `Web Audio` | Homologado |
+| **CSEG Safety Hub** | Portal de catálogo técnico de EPIs e assistente de triagem de Normas Regulamentadoras (NRs). Catálogo com filtros multicritério e assistente estruturado via motor de regras determinísticas de conformidade. | `React` `TypeScript` `Tailwind` `Framer Motion` `Vitest` | Homologado |
+| **Conecta Digital** | Landing page moderna e responsiva voltada a serviços corporativos, com microinterações via Framer Motion, tempo de carregamento otimizado e componentização desacoplada. | `React 18` `TypeScript` `Tailwind CSS` `Framer Motion` `Vite` | Homologado |
 
 ---
 
-## 📐 Boas Práticas & Engenharia de Software
+## 📐 Boas Práticas que Aplico no Dia a Dia
 
-- **Clean Architecture & Separation of Concerns:** Separação estrita entre camadas de domínio, infraestrutura e apresentação.
-- **Component-Driven Development:** Criação de componentes atômicos, acessíveis e reutilizáveis guiados por design systems.
-- **Tipagem Estrita & Previsibilidade:** TypeScript em 100% dos fluxos para eliminar erros em tempo de compilação.
-- **Qualidade Contínua:** Linting padronizado (ESLint + Prettier), automação de testes e pipelines de integração contínua (CI).
+- **Organização e Componentização:** Divisão clara entre apresentação (UI) e regras de negócio (Custom Hooks).
+- **Tipagem Segura:** Uso de TypeScript para prevenção de erros em tempo de compilação e interfaces explícitas.
+- **Acessibilidade e Usabilidade:** Elementos semânticos, contraste adequado, suporte a navegação por teclado e touch targets confortáveis para dispositivos móveis.
+- **Testabilidade:** Implementação de testes automatizados para validação de comportamentos essenciais de regras de negócio.
 
 ---
 
-## 📬 Contato & Conexões
+## 📬 Contato
 
 - **LinkedIn:** [linkedin.com/in/anavatrim](https://www.linkedin.com/in/anavatrim/)
-- **Portfólio Web:** [anavatrim.vercel.app](https://anavatrim.vercel.app/)
+- **Portfólio:** [anavatrim.vercel.app](https://anavatrim.vercel.app/)
 - **E-mail:** [anavatrim@hotmail.com](mailto:anavatrim@hotmail.com)
